@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "rootDirectory": "cbfcs_g4_bictda_project1/cbfcs_g4_bictda_project/apps/web",
-  "buildCommand": "npm install && npm run build",
-  "installCommand": "npm install",
-  "framework": "vite",
-  "outputDirectory": "dist"
-}
